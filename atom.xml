@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Explore the World</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.github.com/DayDayUpNo7/"/>
+  <updated>2019-08-25T15:52:50.336Z</updated>
+  <id>https://www.github.com/DayDayUpNo7/</id>
+  
+  <author>
+    <name>DayDayUp</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac Terminal 关键字颜色设置</title>
+    <link href="https://www.github.com/DayDayUpNo7/2019/08/25/Mac-Terminal-%E5%85%B3%E9%94%AE%E5%AD%97%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/"/>
+    <id>https://www.github.com/DayDayUpNo7/2019/08/25/Mac-Terminal-关键字颜色设置/</id>
+    <published>2019-08-25T15:52:50.000Z</published>
+    <updated>2019-08-25T15:52:50.336Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
